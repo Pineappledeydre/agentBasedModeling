@@ -10,6 +10,7 @@ This project simulates patient behavior and their facility choices using **agent
 3. [Simulation Scenarios](#simulation-scenarios)
 4. [Installation](#installation)
 5. [Usage](#usage)
+6. [Results](#results)
 
 ---
 
@@ -90,7 +91,7 @@ The goal is to analyze:
 
 ---
 
-## **Results and Visualizations**
+## **Results**
 ### **Key Outputs:**
 1. **Stubbornness Index:**
    - Quantifies population flexibility.
